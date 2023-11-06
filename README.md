@@ -10,12 +10,12 @@ In this analysis, I am predicting sales of different items in a superstore (Walm
 
 I used docker to create a virtual PySpark environment on my computer. I have used PySpark exclusively to analyse the data and create machine learning models. 
 
-I created the following models:
-• LinearRegressor
-• DecisionTreeRegressor
-• RandomForestRegressor
-• LightGBMRegressor
-• GBTRegressor
+I created the following models:<br>
+• LinearRegressor<br>
+• DecisionTreeRegressor<br>
+• RandomForestRegressor<br>
+• LightGBMRegressor<br>
+• GBTRegressor<br>
 
 I used databricks community version for creating two models which rather took long hours to run on my machine.
 
